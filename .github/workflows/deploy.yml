@@ -31,7 +31,7 @@ jobs:
           target: "/home/ubuntu/api-tcgplayer" 
 
       - name: Deploy and Build
-        uses: appleboy/ssh-action@master
+        uses: appleboy/ssh-action@v1.2.0
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.SSH_USER }}
