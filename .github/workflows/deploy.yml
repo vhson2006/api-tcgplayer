@@ -1,0 +1,55 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build project
+        run: |
+          # Example build commands for a Node.js project
+          npm install
+          npm run build
+          tar -cvzf dist.gz dist
+          tar -cvzf node_modules.gz node_modules
+
+      - name: Deploy to Ubuntu server
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          source: "./dist.gz,./node_modules.gz"
+          target: "/home/ubuntu/api-tcgplayer" 
+
+      - name: Deploy and Build
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            cd api-tcgplayer
+            git pull origin master
+            tar -xvzf dist.gz
+            tar -xvzf node_modules.gz
+            npm run migration:run
+            pm2 restart api 
+      # - name: Deploy to Ubuntu via SSH
+      #   uses: webfactory/ssh-agent@v0.9.0
+      #   with:
+      #     ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+      # - name: Copy build artifacts
+      #   run: |
+      #     scp -o StrictHostKeyChecking=no dist.gz user@shanovina.com:/home/ubuntu/api-tcgplayer
+      #     scp -o StrictHostKeyChecking=no node_modules.gz user@shanovina.com:/home/ubuntu/api-tcgplayer
+      # - name: Restart service on server (optional)
+      #   run: |
+      #     ssh -o StrictHostKeyChecking=no ubuntu@your_ubuntu_server_ip "sudo systemctl restart your_application_service"
