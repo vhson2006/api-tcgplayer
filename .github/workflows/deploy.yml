@@ -43,7 +43,9 @@ jobs:
             tar -xvzf dist.gz
             tar -xvzf node_modules.gz
             npm run migration:run
-            pm2 restart api 
+            pm2 restart api-tcgplayer
+            rm dist.gz
+            rm node_modules.gz
       # - name: Deploy to Ubuntu via SSH
       #   uses: webfactory/ssh-agent@v0.9.0
       #   with:
