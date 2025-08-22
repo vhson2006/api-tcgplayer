@@ -1,0 +1,18 @@
+[
+  {
+    "type": "hot",
+    "typeName": {
+      "en": "Hot",
+      "vi": "Nóng"
+    },
+    "group": "news_tag"
+  },
+  {
+    "type": "best_seller",
+    "typeName": {
+      "en": "Best Seller",
+      "vi": "Bán chạy"
+    },
+    "group": "product_tag"
+  }
+]

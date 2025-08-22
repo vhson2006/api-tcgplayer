@@ -1,0 +1,24 @@
+{
+  "HELLO": "Xin Chào {firstName}",
+  "ERRORS": {
+    "BAD_REQUEST": "Lỗi yêu cầu",
+    "NOT_FOUND": "Không tìm thấy",
+    "USER_NOT_FOUND": "Người dùng {firstName} không tồn tại",
+    "REFRESH_TOKEN_IS_INVALID": "Chữ ký không hợp lệ",
+    "ACCESS_DENY": "Truy cập không hợp lệ",
+    "PASSWORD_INCORRECT": "Mật khẩu không chính xác",
+    "UNSUCCESS": "Không thực hiện thành công",
+    "DUPLICATE": "Dữ liệu đặc trưng bị trùng"
+  },
+  "DOWNLOAD_EMPLOYEE": {
+    "NAME": "Tên",
+    "IDENTIFIED": "CMND",
+    "USERNAME": "Tên đăng nhập",
+    "EMAIL": "Thư điện tử",
+    "PHONE": "Điện thoại",
+    "ADDRESS": "Địa chỉ",
+    "DOB": "Ngày sinh",
+    "STATUS": "Trạng thái",
+    "ROLE": "Vai trò"
+  }
+}

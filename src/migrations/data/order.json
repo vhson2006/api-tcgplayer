@@ -1,0 +1,14 @@
+[
+  {
+    "serial": "SERIALNUM",
+    "phone": "+84984523100",
+    "address": "125 Đào Duy Từ, Quận 5",
+    "status": "create",
+    "payment_type": "visa",
+    "payment_status": "no_paid",
+    "products": [
+      "Condemned_Witch_C_EGO1-EN019_EGYPTIAN_GOD_DECK:_OBELISK_THE_TORMENTOR", 
+      "Double_Summon_C_EGO1-EN027_EGYPTIAN_GOD_DECK:_OBELISK_THE_TORMENTOR"
+    ]
+  }
+]

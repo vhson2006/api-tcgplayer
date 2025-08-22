@@ -1,0 +1,24 @@
+{
+  "HELLO": "Hello {firstName}",
+  "ERRORS": {
+    "BAD_REQUEST": "Bad request",
+    "NOT_FOUND": "NOT FOUND",
+    "USER_NOT_FOUND": "User {firstName} does not exist",
+    "REFRESH_TOKEN_IS_INVALID": "Refresh token is invalid",
+    "ACCESS_DENY": "Access denied",
+    "PASSWORD_INCORRECT": "Password does not match",
+    "UNSUCCESS": "Process fail",
+    "DUPLICATE": "Unique data is duplicate"
+  },
+  "DOWNLOAD_EMPLOYEE": {
+    "NAME": "Name",
+    "IDENTIFIED": "Identified",
+    "USERNAME": "Username",
+    "EMAIL": "Email",
+    "PHONE": "Phone",
+    "ADDRESS": "Address",
+    "DOB": "Date of Birth",
+    "STATUS": "Status",
+    "ROLE": "Role"
+  }
+}

@@ -1,0 +1,2756 @@
+[
+  {
+    "name": "Sprind the Irondash Dragon",
+    "serial": "SDAZ-EN045",
+    "quantity": 3,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Branded in White",
+    "serial": "SDAZ-EN022",
+    "quantity": 3,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Brigrand the Glory Dragon",
+    "serial": "SDAZ-EN044",
+    "quantity": 3,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Fusion Deployment",
+    "serial": "SDCS-EN030",
+    "quantity": 3,
+    "price": "40000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Branded Sword",
+    "serial": "SDAZ-EN031",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Branded Lost",
+    "serial": "SDAZ-EN020",
+    "quantity": 3,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Branded Retribution",
+    "serial": "SDAZ-EN032",
+    "quantity": 3,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Lubellion the Searing Dragon",
+    "serial": "SDAZ-EN042",
+    "quantity": 3,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Mirrorjade the Iceblade Dragon",
+    "serial": "SDAZ-EN041",
+    "quantity": 3,
+    "price": "40000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Branded Fusion",
+    "serial": "SDAZ-EN021",
+    "quantity": 3,
+    "price": "80000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Titaniklad the Ash Dragon",
+    "serial": "SDAZ-EN043",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Albion the Shrouded Dragon",
+    "serial": "SDAZ-EN005",
+    "quantity": 3,
+    "price": "80000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Fallen of Albaz",
+    "serial": "SDAZ-EN004",
+    "quantity": 3,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Tri-Brigade Mercourier",
+    "serial": "SDAZ-EN001",
+    "quantity": 3,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Springans Kitt",
+    "serial": "SDAZ-EN002",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Keeper of Dragon Magic",
+    "serial": "SDAZ-EN015",
+    "quantity": 3,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Paleozoic Canadia",
+    "serial": "SDCS-EN039",
+    "quantity": 3,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dimensional Barrier",
+    "serial": "SDAZ-EN039",
+    "quantity": 3,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dimensional Barrier",
+    "serial": "DUDE-EN048",
+    "quantity": 2,
+    "price": "70000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "There Can Be Only One",
+    "serial": "SDAZ-EN038",
+    "quantity": 3,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "There Can Be Only One",
+    "serial": "DUDE-EN053",
+    "quantity": 2,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Solemn Strike",
+    "serial": "DUDE-EN055",
+    "quantity": 2,
+    "price": "90000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Infinite Impermanence",
+    "serial": "SDCS-EN036",
+    "quantity": 3,
+    "price": "250000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Anti-Spell Fragrance",
+    "serial": "DUDE-EN052",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Ghost Ogre & Snow Rabbit",
+    "serial": "SDAZ-EN017",
+    "quantity": 3,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Ghost Ogre & Snow Rabbit",
+    "serial": "DUDE-EN001",
+    "quantity": 2,
+    "price": "250000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "D.D. Crow",
+    "serial": "DUDE-EN027",
+    "quantity": 2,
+    "price": "40000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Effect Veiler",
+    "serial": "SDAZ-EN018",
+    "quantity": 3,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Effect Veiler",
+    "serial": "LEHD-ENC12",
+    "quantity": 1,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Effect Veiler",
+    "serial": "DUDE-EN028",
+    "quantity": 5,
+    "price": "120000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Ghost Belle & Haunted Mansion",
+    "serial": "DUDE-EN004",
+    "quantity": 2,
+    "price": "120000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Ash Blossom & Joyous Spring",
+    "serial": "DUDE-EN003",
+    "quantity": 2,
+    "price": "300000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Gameciel, the Sea Turtle Kaiju",
+    "serial": "DUDE-EN037",
+    "quantity": 2,
+    "price": "80000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dark Hole",
+    "serial": "LEHD-ENC15",
+    "quantity": 1,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Terraforming",
+    "serial": "DUOV-EN088",
+    "quantity": 1,
+    "price": "40000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Terraforming",
+    "serial": "LEHD-ENA25",
+    "quantity": 2,
+    "price": "40000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Called by the Grave",
+    "serial": "FLOD-EN065",
+    "quantity": 1,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Called by the Grave",
+    "serial": "SDAZ-EN029",
+    "quantity": 3,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Called by the Grave",
+    "serial": "DUDE-EN044",
+    "quantity": 2,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Foolish Burial",
+    "serial": "LEHD-ENC17",
+    "quantity": 1,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Reinforcement of the Army",
+    "serial": "LEHD-ENC18",
+    "quantity": 1,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Super Polymerization",
+    "serial": "DUDE-EN040",
+    "quantity": 4,
+    "price": "300000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dark Ruler No More",
+    "serial": "SDAZ-EN030",
+    "quantity": 3,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Pot of Extravagance",
+    "serial": "SDAZ-EN028",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Harpie's Feather Duster",
+    "serial": "EGO1-EN022",
+    "quantity": 3,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Gold Sarcophagus",
+    "serial": "SDAZ-EN027",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Raigeki",
+    "serial": "TN19-EN010",
+    "quantity": 3,
+    "price": "200000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Book of Eclipse",
+    "serial": "DUDE-EN041",
+    "quantity": 2,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Cosmic Cyclone",
+    "serial": "DUDE-EN043",
+    "quantity": 2,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Obelisk the Tormentor",
+    "serial": "EGO1-EN001",
+    "quantity": 3,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Forbidden Chalice",
+    "serial": "EGO1-EN028",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Drowning Mirror Force",
+    "serial": "EGO1-EN035",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Pot of Avarice",
+    "serial": "EGO1-EN026",
+    "quantity": 3,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Monster Reborn",
+    "serial": "LEHD-ENC16",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Monster Reborn",
+    "serial": "LEHD-ENA23",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Monster Reborn",
+    "serial": "EGO1-EN024",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Double Summon",
+    "serial": "EGO1-EN027",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Red-Eyes Darkness Metal Dragon",
+    "serial": "SDAZ-EN007",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Polymerization",
+    "serial": "LEHD-ENA22",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Black Rose Dragon",
+    "serial": "DUDE-EN010",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Trishula, Dragon of the Ice Barrier",
+    "serial": "DUDE-EN014",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dante, Traveler of the Burning Abyss",
+    "serial": "LEHD-ENC39",
+    "quantity": 1,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Leviair the Sea Dragon",
+    "serial": "LEHD-ENC38",
+    "quantity": 1,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Gaia Saber, the Lightning Shadow",
+    "serial": "DUDE-EN022",
+    "quantity": 2,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "LANphorhynchus",
+    "serial": "DUDE-EN021",
+    "quantity": 2,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Abyss Dweller",
+    "serial": "DUDE-EN016",
+    "quantity": 2,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Elder Entity N'tss",
+    "serial": "MAGO-EN026",
+    "quantity": 1,
+    "price": "40000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Mask Change",
+    "serial": "LEHD-ENA21",
+    "quantity": 2,
+    "price": "40000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Xtra HERO Dread Decimator",
+    "serial": "LEHD-ENA00",
+    "quantity": 1,
+    "price": "300000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Xtra HERO Wonder Driver",
+    "serial": "LEHD-ENA37",
+    "quantity": 1,
+    "price": "200000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Masked HERO Dark Law",
+    "serial": "LEHD-ENA35",
+    "quantity": 1,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Destiny HERO - Plasma",
+    "serial": "LEHD-ENA02",
+    "quantity": 1,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Destiny HERO - Malicious",
+    "serial": "LEHD-ENA04",
+    "signal": "C",
+    "quantity": 1,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Destiny HERO - Malicious",
+    "serial": "LEHD-ENA04",
+    "signal": "UR",
+    "quantity": 1,
+    "price": "150000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Elemental HERO Shadow Mist",
+    "serial": "LEHD-ENA15",
+    "quantity": 1,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Herald of the Arc Light",
+    "serial": "BLHR-EN085",
+    "quantity": 2,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Drytron Meteonis Quadrantids",
+    "serial": "GEIM-EN030",
+    "quantity": 1,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Herald of Mirage Lights",
+    "serial": "DUOV-EN011",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Drytron Fafnir",
+    "serial": "GEIM-EN031",
+    "quantity": 1,
+    "price": "200000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Cyber Emergency",
+    "serial": "SDCS-EN025",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Cyber Angel Benten",
+    "serial": "DRL3-EN012",
+    "quantity": 1,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Cyber Angel Idaten",
+    "serial": "DRL3-EN013",
+    "quantity": 1,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Drytron Beta Rastaban",
+    "serial": "MP21-EN237",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Drytron Delta Altais",
+    "serial": "MP21-EN239",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Drytron Gamma Eltanin",
+    "serial": "MP21-EN238",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Drytron Zeta Aldhibah",
+    "serial": "MP21-EN240",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Fire Formation - Tenki",
+    "serial": "MGED-EN042",
+    "quantity": 3,
+    "price": "120000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Zoodiac Ramram",
+    "serial": "RATE-EN018",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Zoodiac Whiptail",
+    "serial": "RATE-EN016",
+    "quantity": 1,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Zoodiac Thoroughblade",
+    "serial": "RATE-EN017",
+    "quantity": 1,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Tri-Brigade Kerass",
+    "serial": "MP21-EN170",
+    "quantity": 2,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Tri-Brigade Nervall",
+    "serial": "MP21-EN169",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Tri-Brigade Revolt",
+    "serial": "MP21-EN212",
+    "quantity": 3,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Tri-Brigade Shuraig the Ominous Omen",
+    "serial": "MP21-EN198",
+    "quantity": 1,
+    "price": "250000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Tri-Brigade Ferrijit the Barren Blossom",
+    "serial": "PHRA-EN046",
+    "signal": "UR",
+    "quantity": 1,
+    "price": "250000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Tri-Brigade Rugal the Silver Sheller",
+    "serial": "MP21-EN197",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Tri-Brigade Bearbrumm the Rampant Rampager",
+    "serial": "LIOV-EN044",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "The Phantom Knights of Silent Boots",
+    "serial": "LEHD-ENC02",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "The Phantom Knights of Ancient Cloak",
+    "serial": "LEHD-ENC01",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "The Phantom Knights of Ragged Gloves",
+    "serial": "LEHD-ENC03",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Phantom Knights' Wing",
+    "serial": "LEHD-ENC23",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Phantom Knights' Fog Blade",
+    "serial": "LEHD-ENC21",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "The Phantom Knights of Shade Brigandine",
+    "serial": "LEHD-ENC25",
+    "quantity": 1,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "The Phantom Knights of Rusty Bardiche",
+    "serial": "LEHD-ENC00",
+    "quantity": 1,
+    "price": "300000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "The Phantom Knights of Break Sword",
+    "serial": "LEHD-ENC31",
+    "quantity": 1,
+    "price": "80000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dark Rebellion Xyz Dragon",
+    "serial": "LEHD-ENC33",
+    "quantity": 1,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dark Requiem Xyz Dragon",
+    "serial": "LEHD-ENC34",
+    "quantity": 1,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Number 86: Heroic Champion - Rhongomyniad",
+    "serial": "LEHD-ENC37",
+    "quantity": 1,
+    "price": "300000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dogmatika Fleurdelis, the Knighted",
+    "serial": "MP21-EN104",
+    "quantity": 1,
+    "price": "120000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Dogmatika Fleurdelis, the Knighted",
+    "serial": "SDAZ-EN006",
+    "quantity": 3,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Invocation",
+    "serial": "MGED-EN044",
+    "quantity": 1,
+    "price": "70000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Aleister the Invoker",
+    "serial": "FUEN-EN026",
+    "quantity": 2,
+    "price": "40000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Invoked Mechaba",
+    "serial": "MGED-EN025",
+    "quantity": 1,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Invoked Purgatrio",
+    "serial": "FUEN-EN030",
+    "quantity": 1,
+    "price": "60000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Invoked Raidjin",
+    "serial": "BLAR-EN081",
+    "quantity": 1,
+    "price": "30000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Invoked Magellanica",
+    "serial": "GEIM-EN056",
+    "quantity": 1,
+    "price": "10000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Reeshaddoll Wendi",
+    "serial": "MP21-EN244",
+    "quantity": 2,
+    "price": "20000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Shaddoll Beast",
+    "serial": "BLHR-EN083",
+    "quantity": 1,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Nehshaddoll Genius",
+    "serial": "GFTP-EN006",
+    "quantity": 1,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Naelshaddoll Ariel",
+    "serial": "MP21-EN245",
+    "quantity": 1,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Shaddoll Fusion",
+    "serial": "SDSH-EN049",
+    "quantity": 3,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "Resh Shaddoll Incarnation",
+    "serial": "SDSH-EN033",
+    "quantity": 1,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "El Shaddoll Construct",
+    "serial": "SDSH-EN046",
+    "quantity": 2,
+    "price": "50000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "El Shaddoll Winda",
+    "serial": "SHVA-EN049",
+    "quantity": 2,
+    "price": "100000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  },
+  {
+    "name": "El Shaddoll Apkallone",
+    "serial": "MP21-EN246",
+    "signal": "PSE",
+    "quantity": 1,
+    "price": "200000",
+    "type": "manual",
+    "status": "actived",
+    "discount": "0%",
+    "promotionPrice": "",
+    "category": "card",
+    "tags": [
+      "best_seller"
+    ],
+    "images": [
+      "Product",
+      "Product 1",
+      "Product 2"
+    ],
+    "attributes": {
+      "label": "Arrival"
+    }
+  }
+]
