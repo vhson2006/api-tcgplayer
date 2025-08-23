@@ -1,0 +1,734 @@
+[
+  {
+    "type": "new",
+    "typeName": {
+      "en": "New",
+      "vi": "Mới"
+    },
+    "group": "employee_status",
+    "groupName": {
+      "en": "Employee status",
+      "vi": "Trạng thái nhân viên"
+    }
+  },
+  {
+    "type": "actived",
+    "typeName": {
+      "en": "Actived",
+      "vi": "Đang hoạt động"
+    },
+    "group": "employee_status",
+    "groupName": {
+      "en": "Employee status",
+      "vi": "Trạng thái nhân viên"
+    }
+  },
+  {
+    "type": "inactived",
+    "typeName": {
+      "en": "Inactived",
+      "vi": "Tạm dừng"
+    },
+    "group": "employee_status",
+    "groupName": {
+      "en": "Employee status",
+      "vi": "Trạng thái nhân viên"
+    }
+  },
+  {
+    "type": "block",
+    "typeName": {
+      "en": "Block",
+      "vi": "Khóa"
+    },
+    "group": "employee_status",
+    "groupName": {
+      "en": "Employee status",
+      "vi": "Trạng thái nhân viên"
+    }
+  },
+  {
+    "type": "new",
+    "typeName": {
+      "en": "New",
+      "vi": "Mới"
+    },
+    "group": "customer_type",
+    "groupName": {
+      "en": "Customer type",
+      "vi": "Nhóm khách hàng"
+    }
+  },
+  {
+    "type": "actived",
+    "typeName": {
+      "en": "Actived",
+      "vi": "Đang hoạt động"
+    },
+    "group": "customer_type",
+    "groupName": {
+      "en": "Customer type",
+      "vi": "Nhóm khách hàng"
+    }
+  },
+  {
+    "type": "inactived",
+    "typeName": {
+      "en": "Inactived",
+      "vi": "Tạm dừng"
+    },
+    "group": "customer_type",
+    "groupName": {
+      "en": "Customer type",
+      "vi": "Nhóm khách hàng"
+    }
+  },
+  {
+    "type": "block",
+    "typeName": {
+      "en": "Block",
+      "vi": "Khóa"
+    },
+    "group": "customer_type",
+    "groupName": {
+      "en": "Customer type",
+      "vi": "Nhóm khách hàng"
+    }
+  },
+  {
+    "type": "vip",
+    "typeName": {
+      "en": "Vip",
+      "vi": "Vip"
+    },
+    "group": "customer_type",
+    "groupName": {
+      "en": "Customer type",
+      "vi": "Nhóm khách hàng"
+    }
+  },
+  {
+    "type": "secret_url",
+    "typeName": {
+      "en": "Secret URL",
+      "vi": "URL bảo mật"
+    },
+    "group": "validation_token_type",
+    "groupName": {
+      "en": "Validation token type",
+      "vi": "Loại xác minh"
+    }
+  },
+  {
+    "type": "pin_otp",
+    "typeName": {
+      "en": "Pin OTP",
+      "vi": "Mã một lần"
+    },
+    "group": "validation_token_type",
+    "groupName": {
+      "en": "Validation token type",
+      "vi": "Loại xác minh"
+    }
+  },
+  {
+    "type": "actived",
+    "typeName":  {
+      "en": "Actived",
+      "vi": "Đang kích hoạt"
+    },
+    "group": "generate_status",
+    "groupName": {
+      "en": "Generate status",
+      "vi": "Trạng thái cài đặt"
+    }
+  },
+  {
+    "type": "inactived",
+    "typeName": {
+      "en": "Inactived",
+      "vi": "Tạm dừng"
+    },
+    "group": "generate_status",
+    "groupName": {
+      "en": "Generate status",
+      "vi": "Trạng thái cài đặt"
+    }
+  },
+  {
+    "type": "quantity",
+    "typeName": {
+      "en": "Quantity",
+      "vi": "Số lượng"
+    },
+    "group": "access_code_type",
+    "groupName": {
+      "en": "Access code type",
+      "vi": "Loại mã"
+    }
+  },
+  {
+    "type": "duration",
+    "typeName": {
+      "en": "Duration",
+      "vi": "Giai đoạn"
+    },
+    "group": "access_code_type",
+    "groupName": {
+      "en": "Access code type",
+      "vi": "Loại mã"
+    }
+  },
+  {
+    "type": "manual",
+    "typeName": {
+      "en": "Manual",
+      "vi": "Thủ công"
+    },
+    "group": "access_code_type",
+    "groupName": {
+      "en": "Access code type",
+      "vi": "Loại mã"
+    }
+  },
+  {
+    "type": "actived",
+    "typeName":  {
+      "en": "Actived",
+      "vi": "Đang kích hoạt"
+    },
+    "group": "access_code_status",
+    "groupName": {
+      "en": "Access code status",
+      "vi": "Trạng thái cài đặt"
+    }
+  },
+  {
+    "type": "inactived",
+    "typeName": {
+      "en": "Inactived",
+      "vi": "Tạm dừng"
+    },
+    "group": "access_code_status",
+    "groupName": {
+      "en": "Access code status",
+      "vi": "Trạng thái cài đặt"
+    }
+  },
+  {
+    "type": "new",
+    "typeName": {
+      "en": "New",
+      "vi": "Mới"
+    },
+    "group": "comment_status",
+    "groupName": {
+      "en": "Comment status",
+      "vi": "Trạng thái bình luận"
+    }
+  },
+  {
+    "type": "valid",
+    "typeName": {
+      "en": "Valid",
+      "vi": "Hợp lệ"
+    },
+    "group": "comment_status",
+    "groupName": {
+      "en": "Comment status",
+      "vi": "Trạng thái bình luận"
+    }
+  },
+  {
+    "type": "invalid",
+    "typeName": {
+      "en": "Invalid",
+      "vi": "Không hợp lệ"
+    },
+    "group": "comment_status",
+    "groupName": {
+      "en": "Comment status",
+      "vi": "Trạng thái bình luận"
+    }
+  },
+  {
+    "type": "new",
+    "typeName": {
+      "en": "New",
+      "vi": "Mới"
+    },
+    "group": "media_status",
+    "groupName": {
+      "en": "Media status",
+      "vi": "Trạng thái tập tin"
+    }
+  },
+  {
+    "type": "assign",
+    "typeName": {
+      "en": "Assign",
+      "vi": "Đang sử dụng"
+    },
+    "group": "media_status",
+    "groupName": {
+      "en": "Media status",
+      "vi": "Trạng thái tập tin"
+    }
+  },
+  {
+    "type": "unassign",
+    "typeName": {
+      "en": "Unassign",
+      "vi": "Bỏ trống"
+    },
+    "group": "media_status",
+    "groupName": {
+      "en": "Media status",
+      "vi": "Trạng thái tập tin"
+    }
+  },
+  {
+    "type": "news",
+    "typeName": {
+      "en": "News",
+      "vi": "Tin tức"
+    },
+    "group": "comment_topic",
+    "groupName": {
+      "en": "Comment topic",
+      "vi": "Nhóm chủ đề"
+    }
+  },
+  {
+    "type": "product",
+    "typeName": {
+      "en": "Product",
+      "vi": "Sản phẩm"
+    },
+    "group": "comment_topic",
+    "groupName": {
+      "en": "Comment topic",
+      "vi": "Nhóm chủ đề"
+    }
+  },
+  {
+    "type": "cash",
+    "typeName": {
+      "en": "Cash",
+      "vi": "Giảm giá"
+    },
+    "group": "voucher_type",
+    "groupName": {
+      "en": "Voucher type",
+      "vi": "Loại khuyến mãi"
+    }
+  },
+  {
+    "type": "discount",
+    "typeName": {
+      "en": "Discount",
+      "vi": "Chiết khấu"
+    },
+    "group": "voucher_type",
+    "groupName": {
+      "en": "Voucher type",
+      "vi": "Loại khuyến mãi"
+    }
+  },
+  {
+    "type": "valid_phone",
+    "typeName": {
+      "en": "Phone validation",
+      "vi": "Dành cho điện thoại"
+    },
+    "group": "voucher_condition",
+    "groupName": {
+      "en": "Voucher condition",
+      "vi": "Điều kiện khuyến mãi"
+    }
+  },
+  {
+    "type": "for_visa",
+    "typeName": {
+      "en": "Visa only",
+      "vi": "Dành cho Visa"
+    },
+    "group": "voucher_condition",
+    "groupName": {
+      "en": "Voucher condition",
+      "vi": "Điều kiện khuyến mãi"
+    }
+  },
+  {
+    "type": "min_order",
+    "typeName": {
+      "en": "Order minimum",
+      "vi": "Đơn hàng tối thiểu"
+    },
+    "group": "voucher_condition",
+    "groupName": {
+      "en": "Voucher condition",
+      "vi": "Điều kiện khuyến mãi"
+    }
+  },
+  {
+    "type": "all",
+    "typeName": {
+      "en": "All",
+      "vi": "Mọi đối tượng"
+    },
+    "group": "voucher_condition",
+    "groupName": {
+      "en": "Voucher condition",
+      "vi": "Điều kiện khuyến mãi"
+    }
+  },
+  {
+    "type": "actived",
+    "typeName": {
+      "en": "Actived",
+      "vi": "Đang hoạt động"
+    },
+    "group": "voucher_status",
+    "groupName": {
+      "en": "Voucher status",
+      "vi": "Trạng thái mã khuyến mãi"
+    }
+  },
+  {
+    "type": "inactived",
+    "typeName": {
+      "en": "Inactived",
+      "vi": "Tạm dừng"
+    },
+    "group": "voucher_status",
+    "groupName": {
+      "en": "Voucher status",
+      "vi": "Trạng thái mã khuyến mãi"
+    }
+  },
+  {
+    "type": "cod",
+    "typeName": {
+      "en": "Cash on delivery",
+      "vi": "Tiền mặt"
+    },
+    "group": "payment_type",
+    "groupName": {
+      "en": "Payment type",
+      "vi": "Loại thanh toán"
+    }
+  },
+  {
+    "type": "visa",
+    "typeName": {
+      "en": "Visa",
+      "vi": "Thẻ tín dụng"
+    },
+    "group": "payment_type",
+    "groupName": {
+      "en": "Payment type",
+      "vi": "Loại thanh toán"
+    }
+  },
+  {
+    "type": "transfer",
+    "typeName": {
+      "en": "Transfer",
+      "vi": "Chuyển khoản"
+    },
+    "group": "payment_type",
+    "groupName": {
+      "en": "Payment type",
+      "vi": "Loại thanh toán"
+    }
+  },
+  {
+    "type": "momo",
+    "typeName": {
+      "en": "Momo",
+      "vi": "Momo"
+    },
+    "group": "payment_type",
+    "groupName": {
+      "en": "Payment type",
+      "vi": "Loại thanh toán"
+    }
+  },
+  {
+    "type": "paid",
+    "typeName": {
+      "en": "Paid",
+      "vi": "Đã thanh toán"
+    },
+    "group": "payment_status",
+    "groupName": {
+      "en": "Payment status",
+      "vi": "Trạng thái thanh toán"
+    }
+  },
+  {
+    "type": "no_paid",
+    "typeName": {
+      "en": "No paid",
+      "vi": "Chưa thanh toán"
+    },
+    "group": "payment_status",
+    "groupName": {
+      "en": "Payment status",
+      "vi": "Trạng thái thanh toán"
+    }
+  },
+  {
+    "type": "quantity",
+    "typeName": {
+      "en": "Quantity",
+      "vi": "Số lượng"
+    },
+    "group": "product_type",
+    "groupName": {
+      "en": "Product type",
+      "vi": "Loại sản phẩm"
+    }
+  },
+  {
+    "type": "duration",
+    "typeName": {
+      "en": "Duration",
+      "vi": "Giai đoạn"
+    },
+    "group": "product_type",
+    "groupName": {
+      "en": "Product type",
+      "vi": "Loại sản phẩm"
+    }
+  },
+  {
+    "type": "manual",
+    "typeName": {
+      "en": "Manual",
+      "vi": "Thủ công"
+    },
+    "group": "product_type",
+    "groupName": {
+      "en": "Product type",
+      "vi": "Loại sản phẩm"
+    }
+  },
+  {
+    "type": "actived",
+    "typeName": {
+      "en": "Actived",
+      "vi": "Đang hoạt động"
+    },
+    "group": "product_status",
+    "groupName": {
+      "en": "Product status",
+      "vi": "Trạng thái sản phẩm"
+    }
+  },
+  {
+    "type": "inactived",
+    "typeName": {
+      "en": "Inactived",
+      "vi": "Tạm dừng"
+    },
+    "group": "product_status",
+    "groupName": {
+      "en": "Product status",
+      "vi": "Trạng thái sản phẩm"
+    }
+  },
+  {
+    "type": "create",
+    "typeName": {
+      "en": "Create",
+      "vi": "Mới tạo"
+    },
+    "group": "order_status",
+    "groupName": {
+      "en": "Order status",
+      "vi": "Trạng thái đơn hàng"
+    }
+  },
+  {
+    "type": "confirm",
+    "typeName": {
+      "en": "Confirm",
+      "vi": "Xác nhận"
+    },
+    "group": "order_status",
+    "groupName": {
+      "en": "Order status",
+      "vi": "Trạng thái đơn hàng"
+    }
+  },
+  {
+    "type": "inprocess",
+    "typeName": {
+      "en": "Inprocess",
+      "vi": "Đang giao"
+    },
+    "group": "order_status",
+    "groupName": {
+      "en": "Order status",
+      "vi": "Trạng thái đơn hàng"
+    }
+  },
+  {
+    "type": "complete",
+    "typeName": {
+      "en": "Complete",
+      "vi": "Hoàn thành"
+    },
+    "group": "order_status",
+    "groupName": {
+      "en": "Order status",
+      "vi": "Trạng thái đơn hàng"
+    }
+  },
+  {
+    "type": "cancel",
+    "typeName": {
+      "en": "Cancel",
+      "vi": "Hủy"
+    },
+    "group": "order_status",
+    "groupName": {
+      "en": "Order status",
+      "vi": "Trạng thái đơn hàng"
+    }
+  },
+  {
+    "type": "activation",
+    "typeName": {
+      "en": "Activation",
+      "vi": "Kích hoạt"
+    },
+    "group": "email_type",
+    "groupName": {
+      "en": "Email type",
+      "vi": "Loại thư điện tử"
+    }
+  },
+  {
+    "type": "welcome",
+    "typeName": {
+      "en": "Welcome",
+      "vi": "Chào đón"
+    },
+    "group": "email_type",
+    "groupName": {
+      "en": "Email type",
+      "vi": "Loại thư điện tử"
+    }
+  },
+  {
+    "type": "OTP",
+    "typeName": {
+      "en": "OTP sending",
+      "vi": "Gửi OTP"
+    },
+    "group": "email_type",
+    "groupName": {
+      "en": "Email type",
+      "vi": "Loại thư điện tử"
+    }
+  },
+  {
+    "type": "order",
+    "typeName": {
+      "en": "Order tracking",
+      "vi": "Theo dõi đơn hàng"
+    },
+    "group": "email_type",
+    "groupName": {
+      "en": "Email type",
+      "vi": "Loại thư điện tử"
+    }
+  },
+  {
+    "type": "campaign",
+    "typeName": {
+      "en": "Campaign",
+      "vi": "Chiến dịch"
+    },
+    "group": "email_type",
+    "groupName": {
+      "en": "Email type",
+      "vi": "Loại thư điện tử"
+    }
+  },
+  {
+    "type": "actived",
+    "typeName": {
+      "en": "Actived",
+      "vi": "Đang hoạt động"
+    },
+    "group": "email_status",
+    "groupName": {
+      "en": "Email status",
+      "vi": "Trạng thái email"
+    }
+  },
+  {
+    "type": "inactived",
+    "typeName": {
+      "en": "Inactived",
+      "vi": "Tạm dừng"
+    },
+    "group": "email_status",
+    "groupName": {
+      "en": "Email status",
+      "vi": "Trạng thái email"
+    }
+  },
+  {
+    "type": "news_category",
+    "typeName": {
+      "en": "News category",
+      "vi": "Danh mục tin tức"
+    },
+    "group": "category",
+    "groupName": {
+      "en": "Category",
+      "vi": "Danh mục"
+    }
+  },
+  {
+    "type": "product_category",
+    "typeName": {
+      "en": "Product category",
+      "vi": "Danh mục sản phẩm"
+    },
+    "group": "category",
+    "groupName": {
+      "en": "Category",
+      "vi": "Danh mục"
+    }
+  },
+  {
+    "type": "news_tag",
+    "typeName": {
+      "en": "News tag",
+      "vi": "Thẻ tin tức"
+    },
+    "group": "tag",
+    "groupName": {
+      "en": "Tag",
+      "vi": "Thẻ"
+    }
+  },
+  {
+    "type": "product_tag",
+    "typeName": {
+      "en": "Product tag",
+      "vi": "Thẻ sản phẩm"
+    },
+    "group": "tag",
+    "groupName": {
+      "en": "Tag",
+      "vi": "Thẻ"
+    }
+  }
+]

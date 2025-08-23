@@ -1,0 +1,75 @@
+[
+  {
+    "type": "staff",
+    "typeName": {
+      "en": "Staff",
+      "vi": "Nhân viên"
+    },
+    "permissions": [ 
+      "view.news", "create.news", "update.news", "delete.news", 
+      "view.product", "create.product", "update.product", "delete.product", 
+      "view.order", "update.order",
+      "view.customer", "update.customer",
+      "view.tag", 
+      "view.category",
+      "view.media", "create.media"
+    ]
+  },
+  {
+    "type": "leader",
+    "typeName": {
+      "en": "Leader",
+      "vi": "Trưởng nhóm"
+    },
+    "permissions": [ 
+      "view.employee", "create.employee",
+      "view.role",
+      "view.news", "create.news", "update.news", "delete.news", 
+      "view.product", "create.product", "update.product", "delete.product", 
+      "view.order", "update.order", "delete.order",
+      "view.customer", "update.customer",
+      "view.tag", "create.tag", "update.tag", "delete.tag", 
+      "view.category", "create.category", "update.category", "delete.category",
+      "view.media", "create.media", "update.media", "delete.media"
+     ]
+  },
+  {
+    "type": "manager",
+    "typeName": {
+      "en": "Manager",
+      "vi": "Quản lý"
+    },
+    "permissions": [ 
+      "view.employee", "create.employee", "update.employee", "delete.employee", 
+      "view.role", "create.role", "update.role", "delete.role", 
+      "view.news", "create.news", "update.news", "delete.news", 
+      "view.product", "create.product", "update.product", "delete.product", 
+      "view.order", "create.order", "update.order", "delete.order",
+      "view.customer", "create.customer", "update.customer", "delete.customer",
+      "view.tag", "create.tag", "update.tag", "delete.tag", 
+      "view.category", "create.category", "update.category", "delete.category",
+      "view.media", "create.media", "update.media", "delete.media"
+    ]
+  },
+  {
+    "type": "administrator",
+    "typeName": {
+      "en": "Administrator",
+      "vi": "Quản trị viên"
+    },
+    "permissions": [ 
+      "view.employee", "view.news", "view.role", "view.generate", "view.product", "view.order", 
+      "view.customer", "view.voucher", "view.tag", "view.category", "view.email", "view.media",
+      "view.comment", "view.accesscode",
+      "create.employee", "create.news", "create.role", "create.generate", "create.product", "create.order", 
+      "create.customer", "create.voucher", "create.tag", "create.category", "create.email", "create.media",
+      "create.comment", "create.accesscode",
+      "update.employee", "update.news", "update.role", "update.generate", "update.product", "update.order", 
+      "update.customer", "update.voucher", "update.tag", "update.category", "update.email", "update.media",
+      "update.comment", "update.accesscode",
+      "delete.employee", "delete.news", "delete.role", "delete.generate", "delete.product", "delete.order", 
+      "delete.customer", "delete.voucher", "delete.tag", "delete.category", "delete.email", "delete.media",
+      "delete.comment", "delete.accesscode"
+    ]
+  }
+]

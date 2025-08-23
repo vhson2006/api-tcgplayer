@@ -1,0 +1,674 @@
+[
+  {
+    "type": "employee",
+    "typeName": {
+      "en": "Employee",
+      "vi": "Nhân viên"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "role",
+    "typeName": {
+      "en": "Role",
+      "vi": "Vai trò"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "news",
+    "typeName": {
+      "en": "News",
+      "vi": "Tin tức"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "generate",
+    "typeName": {
+      "en": "Generate",
+      "vi": "Tạo tự động"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "product",
+    "typeName": {
+      "en": "Product",
+      "vi": "Sản phẩm"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "order",
+    "typeName": {
+      "en": "Order",
+      "vi": "Đơn hàng"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "customer",
+    "typeName": {
+      "en": "Customer",
+      "vi": "Khách hàng"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "voucher",
+    "typeName": {
+      "en": "Voucher",
+      "vi": "Khuyến mãi"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "tag",
+    "typeName": {
+      "en": "Tag",
+      "vi": "Thẻ"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "category",
+    "typeName": {
+      "en": "Category",
+      "vi": "Danh mục"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "email",
+    "typeName": {
+      "en": "Email",
+      "vi": "Thư điện tử"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "media",
+    "typeName": {
+      "en": "media",
+      "vi": "Tập tin"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "comment",
+    "typeName": {
+      "en": "Comment",
+      "vi": "Bình luận"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "accesscode",
+    "typeName": {
+      "en": "Access code",
+      "vi": "Mã truy cập"
+    },
+    "group": "create",
+    "groupName": {
+      "en": "Create",
+      "vi": "Tạo mới"
+    }
+  },
+  {
+    "type": "employee",
+    "typeName": {
+      "en": "Employee",
+      "vi": "Nhân viên"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "role",
+    "typeName": {
+      "en": "Role",
+      "vi": "Vai trò"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "news",
+    "typeName": {
+      "en": "News",
+      "vi": "Tin tức"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "generate",
+    "typeName": {
+      "en": "Generate",
+      "vi": "Tạo tự động"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "product",
+    "typeName": {
+      "en": "Product",
+      "vi": "Sản phẩm"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "order",
+    "typeName": {
+      "en": "Order",
+      "vi": "Đơn hàng"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "customer",
+    "typeName": {
+      "en": "Customer",
+      "vi": "Khách hàng"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "voucher",
+    "typeName": {
+      "en": "Voucher",
+      "vi": "Khuyến mãi"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "tag",
+    "typeName": {
+      "en": "Tag",
+      "vi": "Thẻ"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "category",
+    "typeName": {
+      "en": "Category",
+      "vi": "Danh mục"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "email",
+    "typeName": {
+      "en": "Email",
+      "vi": "Thư điện tử"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "media",
+    "typeName": {
+      "en": "media",
+      "vi": "Tập tin"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "comment",
+    "typeName": {
+      "en": "Comment",
+      "vi": "Bình luận"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "accesscode",
+    "typeName": {
+      "en": "Access code",
+      "vi": "Mã truy cập"
+    },
+    "group": "view",
+    "groupName": {
+      "en": "View",
+      "vi": "Xem"
+    }
+  },
+  {
+    "type": "employee",
+    "typeName": {
+      "en": "Employee",
+      "vi": "Nhân viên"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "role",
+    "typeName": {
+      "en": "Role",
+      "vi": "Vai trò"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "news",
+    "typeName": {
+      "en": "News",
+      "vi": "Tin tức"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "generate",
+    "typeName": {
+      "en": "Generate",
+      "vi": "Tạo tự động"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "product",
+    "typeName": {
+      "en": "Product",
+      "vi": "Sản phẩm"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "order",
+    "typeName": {
+      "en": "Order",
+      "vi": "Đơn hàng"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "customer",
+    "typeName": {
+      "en": "Customer",
+      "vi": "Khách hàng"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "voucher",
+    "typeName": {
+      "en": "Voucher",
+      "vi": "Khuyến mãi"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "tag",
+    "typeName": {
+      "en": "Tag",
+      "vi": "Thẻ"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "category",
+    "typeName": {
+      "en": "Category",
+      "vi": "Danh mục"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "email",
+    "typeName": {
+      "en": "Email",
+      "vi": "Thư điện tử"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "media",
+    "typeName": {
+      "en": "media",
+      "vi": "Tập tin"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "comment",
+    "typeName": {
+      "en": "Comment",
+      "vi": "Bình luận"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "accesscode",
+    "typeName": {
+      "en": "Access code",
+      "vi": "Mã truy cập"
+    },
+    "group": "update",
+    "groupName": {
+      "en": "Update",
+      "vi": "Cập nhật"
+    }
+  },
+  {
+    "type": "employee",
+    "typeName": {
+      "en": "Employee",
+      "vi": "Nhân viên"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "role",
+    "typeName": {
+      "en": "Role",
+      "vi": "Vai trò"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "news",
+    "typeName": {
+      "en": "News",
+      "vi": "Tin tức"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "generate",
+    "typeName": {
+      "en": "Generate",
+      "vi": "Tạo tự động"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "product",
+    "typeName": {
+      "en": "Product",
+      "vi": "Sản phẩm"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "order",
+    "typeName": {
+      "en": "Order",
+      "vi": "Đơn hàng"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "customer",
+    "typeName": {
+      "en": "Customer",
+      "vi": "Khách hàng"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "voucher",
+    "typeName": {
+      "en": "Voucher",
+      "vi": "Khuyến mãi"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "tag",
+    "typeName": {
+      "en": "Tag",
+      "vi": "Thẻ"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "category",
+    "typeName": {
+      "en": "Category",
+      "vi": "Danh mục"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "email",
+    "typeName": {
+      "en": "Email",
+      "vi": "Thư điện tử"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "media",
+    "typeName": {
+      "en": "media",
+      "vi": "Tập tin"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "comment",
+    "typeName": {
+      "en": "Comment",
+      "vi": "Bình luận"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  },
+  {
+    "type": "accesscode",
+    "typeName": {
+      "en": "Access code",
+      "vi": "Mã truy cập"
+    },
+    "group": "delete",
+    "groupName": {
+      "en": "Delete",
+      "vi": "Xóa"
+    }
+  }
+]

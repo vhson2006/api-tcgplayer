@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Administrator",
+    "email": "administrator@xyz.com",
+    "phone": "+84984763100",
+    "identified": "2423456789",
+    "dob": "01-01-1980",
+    "avatar": "Toshiro",
+    "address": "HCM",
+    "status": "actived",
+    "role": "administrator"
+  },
+  {
+    "name": "Staff",
+    "email": "staff@xyz.com",
+    "phone": "+84984763101",
+    "identified": "2323456789",
+    "dob": "01-01-1980",
+    "avatar": "Yugi-Oh",
+    "address": "HCM",
+    "status": "actived",
+    "role": "staff"
+  },
+  {
+    "name": "Leader",
+    "email": "leader@xyz.com",
+    "phone": "+84984763102",
+    "identified": "2223456789",
+    "dob": "01-01-1980",
+    "avatar": "Sogoku",
+    "address": "HCM",
+    "status": "actived",
+    "role": "leader"
+  },
+  {
+    "name": "Manager",
+    "email": "manager@xyz.com",
+    "phone": "+84984763103",
+    "identified": "2123456789",
+    "dob": "01-01-1980",
+    "avatar": "Tiger",
+    "address": "HCM",
+    "status": "actived",
+    "role": "manager"
+  },
+  {
+    "name": "Staff1",
+    "email": "staff1@xyz.com",
+    "phone": "+849847631011",
+    "identified": "23234567891",
+    "dob": "01-01-1980",
+    "avatar": "Comic",
+    "address": "HCM",
+    "status": "inactived",
+    "role": "staff"
+  },
+  {
+    "name": "Leader1",
+    "email": "leader1@xyz.com",
+    "phone": "+849847631021",
+    "identified": "22234567891",
+    "dob": "01-01-1980",
+    "avatar": "Dragon",
+    "address": "HCM",
+    "status": "inactived",
+    "role": "leader"
+  },
+  {
+    "name": "Manager1",
+    "email": "manage1r@xyz.com",
+    "phone": "+849847631031",
+    "identified": "21234567891",
+    "dob": "01-01-1980",
+    "avatar": "Turtle",
+    "address": "HCM",
+    "status": "inactived",
+    "role": "manager"
+  },
+  {
+    "name": "Staff2",
+    "email": "staff2@xyz.com",
+    "phone": "+849847631012",
+    "identified": "23234567892",
+    "dob": "01-01-1980",
+    "avatar": "Phoenix",
+    "address": "HCM",
+    "status": "inactived",
+    "role": "staff"
+  },
+  {
+    "name": "Leader2",
+    "email": "leader2@xyz.com",
+    "phone": "+849847631022",
+    "identified": "22234567892",
+    "dob": "01-01-1980",
+    "avatar": "Magician",
+    "address": "HCM",
+    "status": "inactived",
+    "role": "leader"
+  },
+  {
+    "name": "Manager2",
+    "email": "manager2@xyz.com",
+    "phone": "+849847631032",
+    "identified": "21234567892",
+    "dob": "01-01-1980",
+    "avatar": "China Dragon",
+    "address": "HCM",
+    "status": "inactived",
+    "role": "manager"
+  },
+  {
+    "name": "Staff3",
+    "email": "staff3@xyz.com",
+    "phone": "+849847631013",
+    "identified": "23234567893",
+    "dob": "01-01-1980",
+    "avatar": "Azure",
+    "address": "HCM",
+    "status": "block",
+    "role": "staff"
+  },
+  {
+    "name": "Leader3",
+    "email": "leader3@xyz.com",
+    "phone": "+849847631023",
+    "identified": "22234567893",
+    "dob": "01-01-1980",
+    "avatar": "Conan",
+    "address": "HCM",
+    "status": "block",
+    "role": "leader"
+  },
+  {
+    "name": "Manager3",
+    "email": "manager3@xyz.com",
+    "phone": "+849847631033",
+    "identified": "21234567893",
+    "dob": "01-01-1980",
+    "avatar": "Nữ hoàng ai cập",
+    "address": "HCM",
+    "status": "block",
+    "role": "manager"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "type": "announce",
+    "typeName": {
+      "en": "Announce",
+      "vi": "Thông báo"
+    },
+    "group": "news_category"
+  },
+  {
+    "type": "card",
+    "typeName": {
+      "en": "card",
+      "vi": "Thẻ bài"
+    },
+    "group": "product_category"
+  }
+]
