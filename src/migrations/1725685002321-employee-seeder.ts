@@ -39,7 +39,7 @@ export class EmployeeSeeder1725685002321 implements MigrationInterface {
       .execute();
 
     const insertValues = await Promise.all(employees.map(async (e: any) => {
-      const { role, status, avatar, password, ...employeeData } = e;
+      const { role, status, avatar, ...employeeData } = e;
       return {
         ...employeeData,
         password: await hash(process.env.DEFAULT_PASSWORD, await genSalt()),

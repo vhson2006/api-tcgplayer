@@ -24,7 +24,7 @@ export class CustomerSeeder1728544218338 implements MigrationInterface {
       )
       .execute();
     const insertValues = await Promise.all(customers.map(async (e: any) => {
-      const { type, password, ...customerData } = e;
+      const { type, ...customerData } = e;
       return {
         ...customerData,
         password: await hash(process.env.DEFAULT_PASSWORD, await genSalt()),
