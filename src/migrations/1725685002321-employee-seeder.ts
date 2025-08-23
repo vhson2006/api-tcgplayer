@@ -2,7 +2,7 @@ import * as path from "path";
 import * as dotenv from "dotenv";
 import { MigrationInterface, QueryRunner } from "typeorm"
 import { Role } from "src/modules/role/entities/role.entity";
-import { Employee } from 'src/modules/employee/entities/employee.entity';
+import { Employee } from "src/modules/employee/entities/employee.entity";
 import { readJSONFile } from "src/assets/utils/file";
 import { Common } from "src/modules/common/entities/common.entity";
 import { EMPLOYEE_STATUS } from "src/assets/configs/app.common";

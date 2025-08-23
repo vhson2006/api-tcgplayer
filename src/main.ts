@@ -7,14 +7,13 @@ import helmet from 'helmet';
 import * as compression from 'compression';
 import * as cookieParser from 'cookie-parser';
 import { AppModule } from 'src/app.module';
-import { HttpExceptionFilter } from 'src/middlewares/globals/http-exception.filter';
-import { NotFoundExceptionFilter } from 'src/middlewares/globals/not-found-exception.filter';
-import { TimeoutInterceptor } from 'src/middlewares/globals/timeout.interceptor';
-import { WrapResponseInterceptor } from 'src/middlewares/globals/wrap-response.interceptor';
-import { CircuitBreakerInterceptor } from 'src/middlewares/globals/circuit-breaker/circuit-breaker.interceptor';
 import { initializeTransactionalContext } from 'typeorm-transactional';
 import { urlencoded, json } from 'express';
 import { NestExpressApplication } from '@nestjs/platform-express';
+import { CircuitBreakerInterceptor } from './middlewares/globals/circuit-breaker/circuit-breaker.interceptor';
+import { HttpExceptionFilter } from './middlewares/globals/http-exception.filter';
+import { TimeoutInterceptor } from './middlewares/globals/timeout.interceptor';
+import { WrapResponseInterceptor } from './middlewares/globals/wrap-response.interceptor';
 
 async function bootstrap() {
   initializeTransactionalContext();

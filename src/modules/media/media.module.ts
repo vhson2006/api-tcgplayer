@@ -9,11 +9,11 @@ import { Media } from 'src/modules/media/entities/media.entity';
 import { MediaStatus } from './entities/media-status.entity';
 import { BullModule } from '@nestjs/bull';
 import { MediaProcessor } from './media.processor';
+import { Common } from 'src/modules/common/entities/common.entity';
 import { I18nService } from 'src/middlewares/globals/i18n/i18n.service';
+import { Employee } from 'src/modules/employee/entities/employee.entity';
 import { ProductProductImage } from 'src/modules/product/entities/product-product-image.entity';
 import { CLOUDINARY, QUEUE } from 'src/assets/configs/app.constant';
-import { Common } from '../common/entities/common.entity';
-import { Employee } from '../employee/entities/employee.entity';
 
 @Module({
   imports: [

@@ -8,10 +8,10 @@ import { Repository, DataSource, Like, Not } from 'typeorm';
 import { Transactional } from 'typeorm-transactional';
 import { AccessCodeQueryDto } from './dto/query-access-code.dto';
 import { AccessCode } from './entities/access-code.entity';
+import { Common } from 'src/modules/common/entities/common.entity';
 import { ACCESS_CODE_STATUS, ACCESS_CODE_TYPE } from 'src/assets/configs/app.common';
 import { generateNumber } from 'src/assets/utils/code';
 import { WINSTON_MODULE_PROVIDER } from 'nest-winston';
-import { Common } from '../common/entities/common.entity';
 
 @Injectable()
 export class AccessCodeService {

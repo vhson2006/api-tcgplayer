@@ -5,6 +5,13 @@ import { readJSONFile } from "src/assets/utils/file";
 import { MigrationInterface, QueryRunner } from "typeorm"
 import { MAX_SIZE } from "src/assets/configs/app.constant";
 
+type CommonSeed = {
+  group: string;
+  type: string;
+  groupName: string;
+  typeName: string;
+}
+
 export class CommonSeeder1724661950757 implements MigrationInterface {
 
   public async up(queryRunner: QueryRunner): Promise<void> {
@@ -30,7 +37,7 @@ export class CommonSeeder1724661950757 implements MigrationInterface {
             .from(Common, "common")
             .where(
               "\"common\".\"type\" IN (:...types)", 
-              { types: cur.map((common: any) => common.type )}
+              { types: cur.map((common: CommonSeed) => common.type )}
             )
             .execute();
         } catch (e) {console.log(e)}

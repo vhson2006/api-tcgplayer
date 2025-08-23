@@ -7,15 +7,15 @@ import { MEDIA_STATUS } from 'src/assets/configs/app.common';
 import { MediaStatus } from './entities/media-status.entity';
 import { InjectQueue } from '@nestjs/bull';
 import { Queue } from 'bull';
+import { Common } from 'src/modules/common/entities/common.entity';
 import { Transactional } from 'typeorm-transactional';
 import { CreateMediaDto } from './dto/create-media.dto';
 import { MediaQueryDto } from './dto/query-media.dto';
 import { UpdateMediaDto } from './dto/update-media.dto';
 import { I18nService } from 'src/middlewares/globals/i18n/i18n.service';
+import { Employee } from 'src/modules/employee/entities/employee.entity';
 import { ProductProductImage } from 'src/modules/product/entities/product-product-image.entity';
 import { WINSTON_MODULE_PROVIDER } from 'nest-winston';
-import { Common } from '../common/entities/common.entity';
-import { Employee } from '../employee/entities/employee.entity';
 
 @Injectable()
 export class MediaService {
