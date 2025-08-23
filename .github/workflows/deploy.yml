@@ -42,7 +42,7 @@ jobs:
             git pull origin master
             tar -xvzf dist.gz
             tar -xvzf node_modules.gz
-            npm run migration:run
+            # npm run migration:run
             pm2 restart api-tcgplayer
             rm dist.gz
             rm node_modules.gz
