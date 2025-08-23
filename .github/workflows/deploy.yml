@@ -46,3 +46,4 @@ jobs:
             pm2 restart api-tcgplayer
             rm dist.gz
             rm node_modules.gz
+#pm2 start dist/main.js -n api-tcgplayer
