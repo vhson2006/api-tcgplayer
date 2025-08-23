@@ -10,14 +10,6 @@ import { AuthType } from 'src/middlewares/iam/authentication/enums/auth-type.enu
 export class PublicNewsController {
   constructor(private readonly newsService: NewsService) {}
 
-  @Get('hello')
-  async hello() {
-    return {
-      status: CORRECT,
-      data: 'hello'
-    }
-  }
-
   @Get()
   async findAll(@Query() query: NewsQueryDto) {
     const news = await this.newsService.findAll(query);

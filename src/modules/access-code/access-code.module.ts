@@ -6,7 +6,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { I18nService } from 'src/middlewares/globals/i18n/i18n.service';
 import { AccessCodeStatus } from './entities/access-code-status.entity';
 import { AccessCodeType } from './entities/access-code-type.entity';
-import { Common } from '../common/entities/common.entity';
+import { Common } from 'src/modules/common/entities/common.entity';
 
 @Module({
   imports: [

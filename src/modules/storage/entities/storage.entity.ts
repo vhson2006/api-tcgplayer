@@ -10,7 +10,6 @@ import {
   JoinColumn,
   OneToMany,
 } from 'typeorm';
-import { MultiLanguageText } from '../../../assets/typescripts/interface';
 import { Product } from 'src/modules/product/entities/product.entity';
 
 @Entity({name: "storage"})
@@ -63,6 +62,9 @@ export class Storage {
 
   @Column()
   public image: string
+
+  @Column()
+  public gary: string
 
   @CreateDateColumn()
   public created!: Date;
