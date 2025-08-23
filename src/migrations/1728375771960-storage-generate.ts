@@ -25,6 +25,11 @@ export class StorageGenerate1728375771960 implements MigrationInterface {
             type: 'varchar',
           },
           {
+            name: 'gary',
+            type: 'varchar',
+            isNullable: true
+          },
+          {
             name: 'attribute',
             type: 'varchar',
             isNullable: true
@@ -89,6 +94,7 @@ export class StorageGenerate1728375771960 implements MigrationInterface {
             type: 'varchar',
             isNullable: true
           },
+          
           {
             name: 'updated',
             type: 'timestamptz',

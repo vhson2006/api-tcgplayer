@@ -1,7 +1,4 @@
-import {
-   Controller, Post, UploadedFile, UseInterceptors, UploadedFiles, Inject, 
-   ParseFilePipe, MaxFileSizeValidator, FileTypeValidator, Body, Delete, Get, Param, Patch, Query 
-} from '@nestjs/common';
+import { Controller, Post, UploadedFile, UseInterceptors, UploadedFiles, Inject, ParseFilePipe, MaxFileSizeValidator, FileTypeValidator, Body, Delete, Get, Param, Patch, Query } from '@nestjs/common';
 import { MediaService } from './media.service';
 import { FileFieldsInterceptor, FileInterceptor } from '@nestjs/platform-express';
 import { CORRECT, INCORRECT } from 'src/assets/configs/app.constant';

@@ -125,9 +125,9 @@ export class ProductService {
             queryObj = {
               ...queryObj, 
               where: [
-                { slug: Like(`%${search}%`), categoryId, productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
-                { name: Like(`%${search}%`), categoryId, productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
-                { description: Like(`%${search}%`), categoryId, productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                { storage: { gary: Like(`%${search.toLowerCase()}%`) }, categoryId, productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                // { name: Like(`%${search}%`), categoryId, productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                // { description: Like(`%${search}%`), categoryId, productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
               ],
             }
           } else {
@@ -141,9 +141,9 @@ export class ProductService {
             queryObj = {
               ...queryObj, 
               where: [
-                { slug: Like(`%${search}%`), categoryId, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
-                { name: Like(`%${search}%`), categoryId, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
-                { description: Like(`%${search}%`), categoryId, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                { storage: { gary: Like(`%${search.toLowerCase()}%`) }, categoryId, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                // { name: Like(`%${search}%`), categoryId, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                // { description: Like(`%${search}%`), categoryId, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
               ],
             }
           } else {
@@ -159,9 +159,9 @@ export class ProductService {
             queryObj = {
               ...queryObj, 
               where: [
-                { slug: Like(`%${search}%`), productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
-                { name: Like(`%${search}%`), productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
-                { description: Like(`%${search}%`), productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                { storage: { gary: Like(`%${search.toLowerCase()}%`) }, productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                // { name: Like(`%${search}%`), productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                // { description: Like(`%${search}%`), productTags: {type: tag, group: { type: TAG.PRODUCT }}, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
               ],
             }
           } else {
@@ -175,9 +175,9 @@ export class ProductService {
             queryObj = {
               ...queryObj, 
               where: [
-                { slug: Like(`%${search}%`), productStatus: {type: PRODUCT_STATUS.ACTIVED} },
-                { name: Like(`%${search}%`), productStatus: {type: PRODUCT_STATUS.ACTIVED} },
-                { description: Like(`%${search}%`), productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                { storage: { gary: Like(`%${search.toLowerCase()}%`) }, productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                // { name: Like(`%${search}%`), productStatus: {type: PRODUCT_STATUS.ACTIVED} },
+                // { description: Like(`%${search}%`), productStatus: {type: PRODUCT_STATUS.ACTIVED} },
               ],
             }
           } else {

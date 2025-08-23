@@ -5,7 +5,7 @@ import { CreateStorageDto } from './dto/create-storage.dto';
 import { StorageQueryDto } from './dto/query-storage.dto';
 import { UpdateStorageDto } from './dto/update-storage.dto';
 import { StorageService } from './storage.service';
-
+import { Storage } from './entities/storage.entity';
 
 @Controller()
 export class StorageController {

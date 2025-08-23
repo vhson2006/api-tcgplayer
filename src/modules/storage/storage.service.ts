@@ -8,7 +8,7 @@ import { WINSTON_MODULE_PROVIDER } from 'nest-winston';
 import { CreateStorageDto } from './dto/create-storage.dto';
 import { StorageQueryDto } from './dto/query-storage.dto';
 import { UpdateStorageDto } from './dto/update-storage.dto';
-
+import { Storage } from './entities/storage.entity';
 
 @Injectable()
 export class StorageService {
