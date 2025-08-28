@@ -17,6 +17,10 @@ export class S3Service {
   }
 
   async getSigned(file: string) {
+    return `https://${this.configService.get('aws.bucket')}.s3.${this.configService.get('aws.region')}.amazonaws.com/${file}`
+  }
+
+  async getSignedSync(file: string) {
     const s3Client = new S3Client(this.config);
     const command = new GetObjectCommand({
       Bucket: this.configService.get('aws.bucket'),
